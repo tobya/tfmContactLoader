@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GroupName</key>
+	<string>Tobys Group</string>
+	<key>OrigionalURL</key>
+	<string></string>
+	<key>RowCount</key>
+	<integer>4</integer>
+	<key>Contacts</key>
+	<array>
+		<dict>
+			<key>FirstName</key>
+			<string>John</string>
+		</dict>
+		<dict>
+			<key>LastName</key>
+			<string>Samathic</string>
+		</dict>
+		<dict>
+			<key>FirstName</key>
+			<string>Toby</string>
+			<key>LastName</key>
+			<string>Allen</string>
+		</dict>
+		<dict>
+			<key>Phone_Mobile</key>
+			<string>01 23323424</string>
+		</dict>
+	</array>
+	<key>New item</key>
+	<string></string>
+</dict>
+</plist>

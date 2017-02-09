@@ -1,0 +1,60 @@
+<plist version="1.0">
+<dict>
+  <key>GroupName</key>  
+  <string>Name of Your Group</string>  
+  <key>Contacts</key>  
+  <array>
+  	<dict>
+  		<key>FirstName</key>
+  		<string> Toby</string>
+  		<key>LastName</key>
+  		<string>Allen</string>
+  		<key>Telephone_Mobile</key>
+  		<string>00353214646785</string>
+  		<key>Telephone_Home</key>
+  		<string>00353214646785</string>
+  		<key>Email_Home</key>
+  		<string>contactloader@toflidium.com</string>
+  		<key>Email_Work</key>
+  		<string>contactloader@toflidium.com</string>
+  		<key>EventContactsUniqueID</key>
+  		<string>UNIQUE_STRING_YOUR_REF</string>
+  		<key>Notes</key>
+  		<string>Any additional Notes you wish to put in the notes field on your contact.  Perhaps Address details and info about them.</string>
+  		<key>ImageURL</key>
+  		<string>http://www.example.com/path/to/image.jpg</string>
+  	</dict>
+  	<dict>
+  		<key>FirstName</key>
+  		<string> etc</string>
+  		<key>LastName</key>
+  		<string></string>
+  		<key>Telephone_Mobile</key>
+  		<string></string>
+  		<key>Telephone_Home</key>
+  		<string></string>
+  		<key>Email_Home</key>
+  		<string></string>
+  		<key>Email_Work</key>
+  		<string></string>
+  		<key>EventContactsUniqueID</key>
+  		<string></string>
+  		<key>Notes</key>
+  		<string></string>
+  		<key>ImageURL</key>
+  		<string></string>
+  	</dict>  </array>
+</dict>
+</plist>
+
+List of Fields accepted.
+
+FirstName
+LastName
+Telephone_Mobile
+Telephone_Home
+Email_Home
+Email_Work
+YourRefUniqueID
+Notes
+ImageURL
